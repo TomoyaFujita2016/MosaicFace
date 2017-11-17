@@ -4,16 +4,16 @@
 |![](https://github.com/TomoyaFujita2016/MosaicFace/blob/master/OriginalImages/lena.jpg)|![](https://github.com/TomoyaFujita2016/MosaicFace/blob/master/MosaicImages/mosic_lena.jpg)|
 
 ## Usage
-  #### 1. ``` git clone https://github.com/TomoyaFujita2016/MosaicFace.git ```
-  #### 2. ``` cd MosaicFace ```
-  #### 3. ``` python3 generateMosaicFace.py ``` (In order to make dirs.)
-  #### 3. ``` cp "ImageFileDir"/* OriginalImages/ ``` 
-  #### 4. ``` python3 generateMosaicFace.py ```
+  1. ``` git clone https://github.com/TomoyaFujita2016/MosaicFace.git ```
+  2. ``` cd MosaicFace ```
+  3. ``` python3 generateMosaicFace.py ``` (In order to make dirs.)
+  4. ``` cp "ImageFileDir"/* OriginalImages/ ``` 
+  5. ``` python3 generateMosaicFace.py ```
 
 ## Requirements
-  #### 1. python 3
-  #### 2. OpenCV3
-  #### 3. Some Face Images
+  1. python 3
+  2. OpenCV3
+  3. Some Face Images
   
 ## Options
   #### Please confirm options by ``` python3 generateMosaicFace.py -h ```

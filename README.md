@@ -1,7 +1,7 @@
 # MosaicFace
 |Before|After|
 |---|---|
-|![](https://github.com/TomoyaFujita2016/MosaicFace/blob/master/OriginalImages/lena.jpg)|![](https://github.com/TomoyaFujita2016/MosaicFace/blob/master/MosaicImages/mosic_lena.jpg)|
+|![](https://github.com/TomoyaFujita2016/MosaicFace/blob/master/MosaicImages/mosic_lena.jpg)|![](https://github.com/TomoyaFujita2016/MosaicFace/blob/master/OriginalImages/lena.jpg)
 
 ## Usage
   1. ``` git clone https://github.com/TomoyaFujita2016/MosaicFace.git ```
